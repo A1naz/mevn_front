@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Courses/Backend"
+		},
+		{
+			"path": "../../../../Courses/AdvancedBackend"
+		},
+		{
+			"path": "../../../../Courses/Ege"
+		},
+		{
+			"path": "../../../../vue3-shop"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Courses/Vue-course"
+		}
+	],
+	"settings": {
+		"notebook.outputLineHeight": 20,
+		"window.zoomLevel": 1,
+		"workbench.editor.titleScrollbarSizing": "default",
+		"explorer.autoReveal": true,
+		"workbench.activityBar.iconClickBehavior": "toggle",
+		"workbench.colorTheme": "Tokyo Night",
+		"editor.fontSize": 15,
+		"terminal.integrated.lineHeight": 1,
+		"markdown.preview.lineHeight": 1.6,
+		"editor.lineHeight": 29
+	}
+}
